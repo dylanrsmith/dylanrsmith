@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer working with embedded systems and automation.<br>yadadadada<br>
+<br>yadadadada<br>
 
 
 ## 🌐 Socials:
